@@ -69,8 +69,8 @@ set hlsearch                " 开启高亮显示结果
 "set magic     " Set magic on, for regular expressions
 "set showmatch " Show matching bracets when text indicator is over them
 "set mat=2     " How many tenths of a second to blink
-set ignorecase              " 搜索时无视大小写
-set nowrapscan              " 搜索到文件两端时不重新搜索
+"set ignorecase              " 搜索时无视大小写
+"set nowrapscan              " 搜索到文件两端时不重新搜索
 
 " 状态栏显示目前所执行的指令
 set showcmd
